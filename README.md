@@ -22,3 +22,5 @@
   
 > 원본 모드 다운로드
 - [원본 모드](https://www.curseforge.com/minecraft/mc-mods/crackers-wither-storm-mod)
+
+<img width="40%" src="https://github.com/Baechu12/Wither-Storm-Korean/assets/135436853/863384c1-b817-411b-bfd1-1536f004a79a"/>
