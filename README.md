@@ -11,6 +11,7 @@
 
 > 지원 버전
 - 1.20.1
+- 적용 경로: C:\Users\[유저 이름]\AppData\Roaming\.minecraft\resourcepacks
 
 <br>
 
